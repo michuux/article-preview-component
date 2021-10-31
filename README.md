@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/article-preview-component-mobile-first-VL9qfGKVJ)
 - Live Site URL: [Click here](https://michuux.github.io/article-preview-component/)
 
 
